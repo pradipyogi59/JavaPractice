@@ -36,6 +36,18 @@ package OOP.Encapsulation;
  *
  *
  */
+ /*
+    hiding internal impl. details & just show set of service what they are offering is called abstraction
+     * by using interface & abstract class we achieve abstraction.
+
+     A class is said to be tighly encapsulated if every data member decalred as a private
+     whether the class contain getter or setter method are not & methods as public or not that are not req. to check
+     http://prntscr.com/p5ijbi
+     If parent class is not tighly encapsulated then no child class is tighly encapsulated.
+
+     Encapsulation : Datahiding + Abstraction
+     Hiding data behind method is core concept of encapsulation
+     */
 class Person {
 
     private double id;

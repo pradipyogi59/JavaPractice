@@ -8,5 +8,8 @@ public class String01_ReverseString {
         {
             System.out.print(str.charAt(i));
         }
+
+        ////reversed string using Stringbuffer
+        //        String reverseStr = new StringBuffer(str).reverse().toString();
     }
 }

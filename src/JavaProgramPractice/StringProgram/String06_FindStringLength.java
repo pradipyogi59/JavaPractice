@@ -14,5 +14,11 @@ public class String06_FindStringLength {
         int i=str.lastIndexOf("");
         System.out.println(i);
 
+        //        String s1 = "ptutorial";
+//        int i = 0;
+//        for(char c: s1.toCharArray()){
+//            i++;
+//        }
+
     }
 }
