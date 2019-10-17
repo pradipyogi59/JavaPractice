@@ -28,4 +28,5 @@ public class String11_CountNumberInString {
     }
     //Above program is a case sensitive i.e it treats ‘A’ and ‘a’ as two different characters. If you want your program not to be case sensitive, convert the input string to either lowercase or uppercase using toLowerCase() or toUpperCase() methods.
     //If you don’t want to count white spaces then remove white spaces from inputString using inputString.replaceAll("\\s+", "")
+
 }
